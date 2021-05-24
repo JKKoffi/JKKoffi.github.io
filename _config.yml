@@ -10,14 +10,14 @@ minimal_mistakes_skin: "dark_cgg" #"air_cgg"
 # Site Settings
 locale: "en"
 title: " "
-masthead_title: "CGG's homepage"
-name: Carlos Alberto Gomez Gonzalez
+masthead_title: "homepage"
+name: Koffi Kouakou Jonathan
 description: >- # this means to ignore newlines until "baseurl:"
-  Carlos Alberto Gomez Gonzalez's personal website.
+  Koffi Kouakou Jonathan's personal website.
 baseurl:  # the subpath of your site, e.g. "/blog"
-url: https://carlgogo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-repository: carlgogo/carlgogo.github.io  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-github_username: carlgogo
+url: https://JKKoffi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+repository: JKKoffi/JKKoffi.github.io  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+github_username: JKKoffi
 teaser: "/assets/images/bio-photo.jpg"
 search: false
 
@@ -31,12 +31,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carlos Alberto Gomez Gonzalez"
+  name             : "Koffi Kouakou Jonathan"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral fellow on AI for Earth Sciences at the Barcelona Supercomputing Center"
-  email            : carlosgg33@gmail.com
+  bio              : "Data Scientist engineer & Machine learning expert & Data Engeneer"
+  email            : koffikouakoujonathan58@gmail.com
   uri              : #"https://carlgogo.github.io"
-  location         : "Barcelona, Spain"
+  location         : "Abidjan, Côte d'Ivoire"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -44,13 +44,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : carlgogo
+  github           : JKKoffi
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : carl_gogo
+  instagram        : # carl_gogo
   lastfm           :
-  linkedin         : carlgogo
+  linkedin         : koffi-kouakou-jonathan-989177189
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
